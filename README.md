@@ -3,8 +3,6 @@ Desenvolvimento de um jogo em javascrip.
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)
 
-<img src="" alt="imagem do jogo">
-
 # Tecnologias utilizadas e pré-requisitos
 * Javascript
 * HTML5
