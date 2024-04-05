@@ -11,4 +11,4 @@ Desenvolvimento de um jogo em javascrip.
 # Jogue aqui: https://jogo-num-secreto-js.vercel.app/
 
 ---
-© 2024 - Squad Grace Hopper
+© 2024 - Caroline Rossafa
